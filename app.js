@@ -19,13 +19,4 @@ switch(comando){
         console.log('Comando no reconocido...!');
 }
 
-// let base = 7;
-
-// console.log(argv);
-
-// let argv2=process.argv;
-
-
-// let parametro = argv[2];
-// let base = parametro.split('=')[1];
 

@@ -39,7 +39,6 @@ let crearArchivo = (base, limite=10) =>{
 
 }
 
-//LOS MODULOS NOS PERMITEN EXPORTAR LAS FUNCIONES QUE QUERRAMOS
 module.exports = {
     crearArchivo,
     listarTabla
